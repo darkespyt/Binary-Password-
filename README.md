@@ -1,6 +1,6 @@
-# 📊 Repository Insights
+# 📊 Repository Insights: Binary-Password-
 
-Welcome to the **[your-repository-name]**! Here are some insights about the repository traffic and views.
+Welcome to the **Binary-Password-** repository! Here, we showcase real-time insights into the traffic and usage of this repository.
 
 ---
 
@@ -8,23 +8,23 @@ Welcome to the **[your-repository-name]**! Here are some insights about the repo
 
 | 📅 Date        | 👁️ Total Views | 👤 Unique Visitors |
 | -------------- | -------------- | ------------------ |
-| **Today**      | ![Today Views](https://img.shields.io/badge/dynamic/json?label=views&query=today_views&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repository%2Fviews.json&color=blue)  | ![Today Visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=today_visitors&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repository%2Fviews.json&color=green) |
-| **This Week**  | ![Week Views](https://img.shields.io/badge/dynamic/json?label=views&query=week_views&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repository%2Fviews.json&color=blue)  | ![Week Visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=week_visitors&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repository%2Fviews.json&color=green) |
-| **This Month** | ![Month Views](https://img.shields.io/badge/dynamic/json?label=views&query=month_views&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repository%2Fviews.json&color=blue) | ![Month Visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=month_visitors&url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repository%2Fviews.json&color=green) |
+| **Today**      | ![Today Views](https://img.shields.io/badge/views-today-blue)  | ![Today Visitors](https://img.shields.io/badge/visitors-today-green) |
+| **This Week**  | ![Week Views](https://img.shields.io/badge/views-this_week-blue)  | ![Week Visitors](https://img.shields.io/badge/visitors-this_week-green) |
+| **This Month** | ![Month Views](https://img.shields.io/badge/views-this_month-blue) | ![Month Visitors](https://img.shields.io/badge/visitors-this_month-green) |
 
 ---
 
 ## 📈 Weekly Visitors Chart
 
-Below is a graph showing the trends in visitors to this repository over time:
+Check out the trends of visitors to this repository over time by visiting the traffic insights page:
 
-![Visitors Graph](https://github.com/your-username/your-repository/graphs/traffic)
+[![Visitors Graph](https://img.shields.io/badge/visitors-graph-blue)](https://github.com/darkespyt/Binary-Password-/graphs/traffic)
 
 ---
 
 ### ⭐️ Give a Star
 
-If you find this repository useful or interesting, feel free to star it!
+If you find this repository useful, please give it a star!
 
-![Stars](https://img.shields.io/github/stars/your-username/your-repository?style=social)
+![Stars](https://img.shields.io/github/stars/darkespyt/Binary-Password-?style=social)
 
